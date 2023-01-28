@@ -1,6 +1,6 @@
 
 
-![logo](https://github.com/iamABHIK123/iamABHIK123/blob/main/Github%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Abhik </h1>
 <h3 align="center">A passionate Web Developer</h3>
 
